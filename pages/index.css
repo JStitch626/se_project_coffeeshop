@@ -23,3 +23,30 @@
   width: 125px;
   height: 142px;
 }
+
+.nav__links {
+  display: flex;
+  column-gap: 20px;
+  list-style-type: none;
+  padding: 0;
+  margin: 8px 0 0;
+}
+/*
+.nav__link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav__link:hover {
+  color: #1f69c9;
+}
+
+.header__title {
+  max-width: 544px;
+  font-size: 66px;
+  line-height: 76px;
+  font-weight: 500;
+  margin: 150px 0 0;
+}
+*/

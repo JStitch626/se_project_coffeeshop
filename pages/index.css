@@ -50,3 +50,7 @@
   margin: 150px 0 0;
 }
 */
+.header__span-accent {
+  font: italic;
+  color: #2f80ed;
+}

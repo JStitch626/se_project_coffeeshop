@@ -53,4 +53,5 @@
 .header__span-accent {
   font: italic;
   color: #2f80ed;
+  display: block;
 }

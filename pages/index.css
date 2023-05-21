@@ -7,3 +7,19 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+.background-header {
+  background-color: #fff;
+  background-image: url(../images/background_header.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 125px;
+  height: 142px;
+}

@@ -11,6 +11,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   background-color: #fff;
   background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
@@ -20,6 +21,7 @@
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
+  margin: 0;
 }
 
 .nav {
@@ -83,11 +85,20 @@
 }
 
 .header__footer {
+  padding: 202px 0 0;
+  margin-top: auto;
+}
+
+.header__paragraph {
   display: flex;
   flex-direction: column;
-  justify-content: space between;
+  justify-content: space-between;
+  margin: 0;
+  box-sizing: border-box;
 }
-/*
-.header__paragraph {
+
+.header__paragraph .header__paragraph_address {
+  margin: 0;
+  color: #838383;
+  align-self: flex-end;
 }
-*/

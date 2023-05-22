@@ -13,4 +13,5 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Use z-index to keep title and title description above the image for smaller screens
+Have title and description wrap for smaller screens

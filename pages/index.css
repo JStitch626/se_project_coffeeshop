@@ -102,11 +102,7 @@
   color: #838383;
 }
 
-.header__paragraph .header__paragraph_hours {
-  margin: 0;
-}
-
-.header__paragraph .header__paragraph_address {
+.header__paragraph {
   margin: 0;
 }
 

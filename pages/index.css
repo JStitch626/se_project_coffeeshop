@@ -166,3 +166,16 @@
   margin: 24px 0 0;
   padding-bottom: 215px;
 }
+
+.reservation {
+  background-color: #d9e7ff;
+  background-image: url(../images/background_reservation.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 720px;
+  max-height: 800px;
+  height: 100vh;
+  margin: 0;
+  padding: 0 80px;
+}

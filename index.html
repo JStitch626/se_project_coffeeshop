@@ -116,20 +116,38 @@
           <h2 class="reservation__title">Book a Table</h2>
           <div class="reservation__form">
             <form class="form">
-               <!-- <fieldset class="form__fieldset">
-                <label class="form__label" for="username">username</label>
-                <input type="text" class="form__input" id="username"/>
-                <label class="form__label" for="password">password</label>
-                <input type="password" class="form__input" id="password"/>
+              <fieldset class="form__fieldset">
+                <label class="form__label" for="name">Name *</label>
+                <input type="text" class="form__input" id="name" />
+              </fieldset>
+              <fieldset class="form__fieldset">
+                <label class="form__label" for="guest-count"
+                  >Number of guests *</label
+                >
+                <input type="number" class="form__input" id="guest-count" />
+              </fieldset>
+              <fieldset class="form__fieldset">
+                <label class="form__label" for="date-time">Date & time *</label>
+                <input
+                  type="datetime-local"
+                  class="form__input"
+                  id="date-time"
+                />
+              </fieldset>
+              <fieldset class="form__fieldset">
+                <label class="form__label" for="email">Your email *</label>
+                <input type="email" class="form__input" id="email" />
+              </fieldset>
+              <fieldset class="form__fieldset">
+                <button type="submit" class="form__button">Book a table</button>
+                <checkbox type="reset" class="form__checkbox"
+                  >I agree with the terms of use</checkbox
+                >
               </fieldset>
               <fieldset class="form__fieldset"></fieldset>
-              <fieldset class="form__fieldset">
-                <button type="submit" class="form__button">Log in</button>
-                <button type="reset" class="form__button">Reset</button>
-              </fieldset>
-              </form>
-            </div>
-        --></section>
+            </form>
+          </div>
+        </section>
 
         <section class="menu" id="menu"></section>
 

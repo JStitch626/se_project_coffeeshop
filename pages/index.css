@@ -190,8 +190,15 @@
   padding-top: 100px;
 }
 
-.reservation__form {
+/*.reservation__form {
 }
 
 .form {
 }
+.form__fieldset {}
+
+.form__label {}
+
+.form__input {}
+
+.form__input::placeholder {}

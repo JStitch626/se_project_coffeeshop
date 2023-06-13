@@ -219,7 +219,9 @@
 
 .form__label_checkbox {
   display: flex;
-  margin: 0;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 12px;
 }
 
 .form__input {
@@ -228,6 +230,10 @@
   border-color: #838383;
   height: 60px;
   margin: 0 0 32px;
+}
+
+.form__input_checkbox {
+  margin: 0;
 }
 
 .form__input::placeholder {
@@ -255,6 +261,5 @@
   border-color: #838383;
   width: 20px;
   height: 20px;
-  column-gap: 12px;
   padding-bottom: 120px;
 }

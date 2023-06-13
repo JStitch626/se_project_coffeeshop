@@ -117,17 +117,15 @@
           <div class="reservation__form">
             <form class="form">
               <fieldset class="form__fieldset">
-                <label class="form__label" for="name">Name *</label>
-                <input type="text" class="form__input" id="name" />
+                <p>Name *</p>
+                <input type="text" class="form__input" />
               </fieldset>
               <fieldset class="form__fieldset">
-                <label class="form__label" for="guest-count"
-                  >Number of guests *</label
-                >
-                <input type="number" class="form__input" id="guest-count" />
+                <p>Number of guests *</p>
+                <input type="number" class="form__input" />
               </fieldset>
               <fieldset class="form__fieldset">
-                <label class="form__label" for="date-time">Date & time *</label>
+                <p>Date & time *</p>
                 <input
                   type="datetime-local"
                   class="form__input"
@@ -135,16 +133,18 @@
                 />
               </fieldset>
               <fieldset class="form__fieldset">
-                <label class="form__label" for="email">Your email *</label>
+                <p>Your email *</p>
                 <input type="email" class="form__input" id="email" />
               </fieldset>
               <fieldset class="form__fieldset">
                 <button type="submit" class="form__button">Book a table</button>
-                <input type="checkbox" class="form__checkbox"
-                  > I agree with the terms of use</checkbox
-                >
               </fieldset>
-              <fieldset class="form__fieldset"></fieldset>
+              <fieldset class="form__fieldset">
+                <label class="form__label form__label_checkbox" for="checkbox">
+                  <input type="checkbox" class="form__input" id="checkbox" /> I
+                  agree with the terms of use
+                </label>
+              </fieldset>
             </form>
           </div>
         </section>

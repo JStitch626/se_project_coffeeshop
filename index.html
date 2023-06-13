@@ -117,19 +117,23 @@
           <div class="reservation__form">
             <form class="form">
               <fieldset class="form__fieldset">
-                <p class="form__label form__label_name">Name *</p>
+                <label class="form__label" for="name">Name *</label>
                 <input
                   type="text"
                   class="form__input"
+                  id="name"
                   placeholder="Name Surname"
                   required
                 />
               </fieldset>
               <fieldset class="form__fieldset">
-                <p class="form__label form__label_name">Number of guests *</p>
+                <label class="form__label" for="guest-count"
+                  >Number of guests *</label
+                >
                 <input
                   type="number"
                   class="form__input"
+                  id="guest-count"
                   placeholder="1-8"
                   min="1"
                   max="8"
@@ -137,19 +141,22 @@
                 />
               </fieldset>
               <fieldset class="form__fieldset">
-                <p class="form__label form__label_name">Date & time *</p>
+                <label class="form__label" for="datetime-local"
+                  >Date & time *</label
+                >
                 <input
                   type="datetime-local"
                   class="form__input"
-                  id="date-time"
+                  id="datetime-local"
                   required
                 />
               </fieldset>
               <fieldset class="form__fieldset">
-                <p class="form__label form__label_name">Your email *</p>
+                <label class="form__label" for="email">Your email *</label>
                 <input
                   type="email"
                   class="form__input"
+                  id="email"
                   placeholder="email@email.com"
                   required
                 />

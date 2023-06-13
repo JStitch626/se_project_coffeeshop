@@ -192,9 +192,11 @@
 }
 
 .reservation__form {
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 auto;
 }
 
 .form {
@@ -213,10 +215,8 @@
 }
 
 .form__label {
+  display: block;
   font: inherit;
-}
-
-.form__label_name {
   margin: 0 0 8px;
 }
 
@@ -232,6 +232,7 @@
   border-style: solid;
   border-color: #838383;
   height: 60px;
+  box-sizing: border-box;
   font: inherit;
   font-style: normal;
   font-weight: normal;

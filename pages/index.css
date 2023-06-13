@@ -238,16 +238,7 @@
   font-size: 20px;
   width: 100%;
 }
-/*
-.form__input[type="text"],
-.form__input[type="email"],
-.form__input[type="date"],
-.form__input[type="number"] {
-  border-radius: 4px;
-  max-width: 385px;
-  height: 60px;
-}
-*/
+
 .form__input::placeholder {
   font: inherit;
   font-style: normal;

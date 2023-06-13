@@ -233,14 +233,14 @@
   border-style: solid;
   border-color: #838383;
   height: 60px;
-  font: "inherit";
+  font: inherit;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
 }
 
 .form__input::placeholder {
-  font: "inherit";
+  font: inherit;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

@@ -173,9 +173,6 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  min-height: 720px;
-  max-height: 800px;
-  height: 100vh;
   margin: 0;
   padding: 0 80px;
 }
@@ -240,7 +237,6 @@
 .form__input[datelocal-time] {
   border-radius: 4px;
   height: 60px;
-  width: 100%;
 }
 
 .form__input_type_checkbox {

@@ -1,0 +1,40 @@
+.menu {
+  background-color: #fff;
+  background-image: url(../images/background_menu.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  padding: 0 80px;
+}
+
+.menu__title {
+  font: inherit;
+  font-weight: 500;
+  font-size: px;
+  line-height: px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 580px;
+  padding: 100px 0 80px;
+}
+
+.menu__subtitle {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.menu__cards {
+}
+
+.menu__card {
+}
+
+.menu__card_title {
+}
+
+.menu__card_list-item {
+}
+
+.menu__card_list-divider {
+}

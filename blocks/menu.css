@@ -11,17 +11,23 @@
 .menu__title {
   font: inherit;
   font-weight: 500;
-  font-size: px;
-  line-height: px;
+  font-size: 44px;
+  line-height: 52px;
   text-align: center;
   margin: 0 auto;
-  max-width: 580px;
-  padding: 100px 0 80px;
+  padding: 100px 0 24px;
+  max-width: 780px;
 }
 
 .menu__subtitle {
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 24px 0 80px;
   text-align: center;
   margin: 0 auto;
+  max-width: 780px;
+  padding-bottom: 100px;
 }
 
 .menu__cards {
@@ -31,9 +37,19 @@
 }
 
 .menu__card_title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .menu__card_list-item {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .menu__card_list-divider {

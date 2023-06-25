@@ -13,5 +13,9 @@ This is the second project of the Web Development program at Triple Ten, formerl
 
 ## Plan on improving the project
 
-Use z-index to keep title and title description above the image for smaller screens
-Have title and description wrap for smaller screens
+- Use z-index to keep title and title description above the image for smaller screens
+- Have title and description wrap for smaller screens
+- Learn how to add images and gifs to readme file
+
+![](images/Screen%20Shot%202023-06-24%20at%2010.35.18%20PM.png)
+![](images/Screen%20Shot%202023-06-24%20at%2010.36.37%20PM.png)

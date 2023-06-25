@@ -64,7 +64,6 @@
 }
 
 .card__list-divider {
-  align-items: stretch;
-  flex-grow: inherit;
-  border-bottom: #838383;
+  flex-grow: 1;
+  border-bottom: 1px solid #838383;
 }

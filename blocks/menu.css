@@ -35,35 +35,3 @@
   justify-content: center;
   flex-flow: row wrap;
 }
-
-.card {
-  width: 540px;
-  margin: 0;
-  padding: 50px;
-}
-
-.card__title {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin: 0 0 32px;
-}
-
-.card__list-item {
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  margin: 0;
-  padding-bottom: 16px;
-  display: flex;
-  justify-content: space-between;
-}
-
-.card__list-divider {
-  flex-grow: 1;
-  border-bottom: 1px solid #838383;
-}

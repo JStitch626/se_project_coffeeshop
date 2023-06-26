@@ -52,6 +52,7 @@
   transition-duration: 0.5s;
   transition-timing-function: linear;
   transition-delay: 0s;
+  text-decoration: none;
 }
 
 .footer__social-link:hover {

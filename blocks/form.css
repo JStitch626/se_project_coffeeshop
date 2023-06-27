@@ -18,10 +18,10 @@
 .form__label {
   display: block;
   font: inherit;
-  margin: 0 0 8px;
+  margin: 32px 0 8px;
 }
 
-.form__label_checkbox {
+.form__label_type_checkbox {
   display: flex;
   justify-content: center;
   column-gap: 12px;
@@ -30,8 +30,6 @@
 
 .form__input {
   font: inherit;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   border: 1px solid #838383;
@@ -41,7 +39,7 @@
   border-radius: 4px;
 }
 
-.form__input_type_checkbox {
+.form__checkbox {
   border-radius: 2px;
   border-style: solid;
   border-color: #838383;

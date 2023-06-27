@@ -17,5 +17,13 @@ This is the second project of the Web Development program at Triple Ten, formerl
 - Have title and description wrap for smaller screens
 - Learn how to add images and gifs to readme file
 
-![](images/Screen%20Shot%202023-06-24%20at%2010.35.18%20PM.png)
-![](images/Screen%20Shot%202023-06-24%20at%2010.36.37%20PM.png)
+## Corrections
+
+- Added spaces between name and price as suggested by code-reviewer
+- Divided header-footer into appropriate paragraphs and used align-self: flex-end; so that the address appears below the image
+
+## Screenshots
+
+![](images/screenshot_header%202023-06-26%20at%2011.44.03%20PM.png)
+![](images/screenshot_menu%202023-06-26%20at%2011.33.01%20PM.png)
+![](images/screenshot_pulsate%202023-06-24%20at%2010.36.37%20PM.png)

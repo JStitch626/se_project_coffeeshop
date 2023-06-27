@@ -21,6 +21,7 @@ This is the second project of the Web Development program at Triple Ten, formerl
 
 - Added spaces between name and price as suggested by code-reviewer
 - Divided header-footer into appropriate paragraphs and used align-self: flex-end; so that the address appears below the image
+- HTML validator showed no errors
 
 ## Screenshots
 

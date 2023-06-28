@@ -20,6 +20,9 @@
   font: inherit;
   margin: 32px 0 8px;
 }
+.form__label:first-of-type {
+  margin-top: 0;
+}
 
 .form__label_type_checkbox {
   display: flex;

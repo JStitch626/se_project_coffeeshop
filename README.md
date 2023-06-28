@@ -22,9 +22,11 @@ This is the second project of the Web Development program at Triple Ten, formerl
 - Added spaces between name and price as suggested by code-reviewer
 - Divided header-footer into appropriate paragraphs and used align-self: flex-end; so that the address appears below the image
 - HTML validator showed no errors
+- 4th screenshot shows creation of <div> tag for the hours section of the header\_\_footer
 
 ## Screenshots
 
 ![](images/screenshot_header%202023-06-26%20at%2011.44.03%20PM.png)
 ![](images/screenshot_menu%202023-06-26%20at%2011.33.01%20PM.png)
 ![](images/screenshot_pulsate%202023-06-24%20at%2010.36.37%20PM.png)
+![](images/screenshot%20div%20for%20hours%202023-06-27%20at%209.29.37%20PM.png)

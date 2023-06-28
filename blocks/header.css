@@ -52,7 +52,6 @@
 .header__footer {
   margin-top: auto;
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
   z-index: 1;
 }

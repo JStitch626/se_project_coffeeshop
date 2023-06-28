@@ -27,7 +27,7 @@ This is the second project of the Web Development program at Triple Ten, formerl
 
 - HTML validator showed no errors
 
-- Created <div> tag for the hours section
+- Created `<div>` tag for the hours section
   ![](images/screenshot_div-for-hours-2023-06-27-9.29.37PM.png)
 
 - Proper alignment according to the brief
